@@ -1,0 +1,12 @@
+.btn-modern{
+   transition: all 0.4s;
+}
+
+
+
+.btn-modern:hover{
+    transform: translateX(-5px);
+    box-shadow: 2px 2px 2px 1px grey;
+    background-color: brown;
+    color: blueviolet;
+}
